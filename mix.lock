@@ -1,0 +1,2 @@
+%{"email_checker": {:hex, :email_checker, "0.0.3"},
+  "socket": {:hex, :socket, "0.3.1"}}
